@@ -1,6 +1,8 @@
 # Sistema_Bancario.py
-Bank System 
 
+Sistema Bancário
+
+> Implementação de um sistema bancário com três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações
 --------------------------------------------------------------------------
 
 The code is a bank system with the variables as:
