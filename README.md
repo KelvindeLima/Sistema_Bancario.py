@@ -2,13 +2,29 @@
 
 Sistema Bancário
 
-> Implementação de um sistema bancário com três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações
---------------------------------------------------------------------------
+> Implementação de um sistema bancário com três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+O Cliente deve escolher as opções que deseja como:
 
-The code is a bank system with the variables as:
+1- Depósito 
+2- Saque
+3- Extrato
 
-1 - Deposit 
+O sistema bancário deve contabilizar o quanto o cliente tem de extrato, assim como fazer as operações de depósito e saque. 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+System Banking
+
+Implementation a banking system with three essential operations: Deposit, Withdrawal and statement
+
+The Customer must choose the options:
+
+1 - Deposit
 2 - Withdrawal
-3 - statement
+3 - Statement
 
->> The system bank had a set withdrawal limit
+The System Banking must count how much the customer have of the Statement, as well as making deposits and withdrawals.
+
+
